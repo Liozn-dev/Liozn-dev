@@ -6,9 +6,7 @@
 
 💞️ I’m looking to collaborate on beginner-friendly projects, coding challenges, and learning groups.
 
-📫 My email: juliomouraprdoucer@gmail.com  
+📫 My email: juliomouraproducer@gmail.com  
 
-😄 Pronouns: he/him  
-🧔‍♂️ I'm a straight man and excited to grow in tech.
 
 ⚡ Fun fact: I just started this journey, but I’m already loving the challenge and the process!
