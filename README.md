@@ -6,7 +6,6 @@ Currently studying and building projects with a focus on <strong>Front-end devel
 </p>
 
 
-[![GitHub Streak](github-readme-streak-stats.herokuapp.com)](github.com)
 
 ---
 
