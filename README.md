@@ -5,6 +5,9 @@ Software development student focused on continuous learning and practical experi
 Currently studying and building projects with a focus on <strong>Front-end development</strong>, while developing a solid foundation for <strong>Full Stack</strong>.
 </p>
 
+
+[![GitHub Streak](github-readme-streak-stats.herokuapp.com)](github.com)
+
 ---
 
 ### About Me
