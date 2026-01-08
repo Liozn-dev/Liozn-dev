@@ -33,7 +33,7 @@ Currently studying and building projects with a focus on <strong>Front-end devel
 
 <div align="center">
 
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+<a href="https://instagram.com/julio.moosh" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -45,7 +45,7 @@ Currently studying and building projects with a focus on <strong>Front-end devel
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/júlio-moura-25a96020b/?skipRedirect=true" target="_blank">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/júlio-moura-25a96020b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
