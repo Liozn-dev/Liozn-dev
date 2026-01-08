@@ -45,7 +45,7 @@ Currently studying and building projects with a focus on <strong>Front-end devel
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/júlio-moura-25a96020b" target="_blank">
+<a href="www.linkedin.com/in/júlio-moura-25a96020b/?skipRedirect=true" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
