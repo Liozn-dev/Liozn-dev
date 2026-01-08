@@ -9,7 +9,7 @@ Currently studying and building projects with a focus on <strong>Front-end devel
 
 ### About Me
 - Software development student  
-- Focused on Front-end development  
+- Focused on Front-end and Back-end development  
 - Building real projects to improve skills and consistency  
 - Goal: become a professional developer prepared for the job market  
 
@@ -37,15 +37,15 @@ Currently studying and building projects with a focus on <strong>Front-end devel
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/YOUR_LINK" target="_blank">
+<a href="discord.com" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:juliomouraproducer@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/júlio-moura-25a96020b/?skipRedirect=true" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
