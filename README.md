@@ -5,7 +5,6 @@ Atualmente estudando e desenvolvendo projetos com foco em **Front-end e Full Sta
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" />
@@ -18,8 +17,6 @@ Atualmente estudando e desenvolvendo projetos com foco em **Front-end e Full Sta
 </div>
 
 ---
-
-### 🌐 Conecte-se comigo
 
 <div align="center">
 
